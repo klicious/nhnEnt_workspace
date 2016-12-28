@@ -38,11 +38,7 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\Kwon\workspace\nhnEnt_workspace\.git">
-			<item value="false"/>
-			<item value="klicious &lt;t.y.kwon320@gmail.com&gt;"/>
-			<item value="first commit"/>
-			<item value="klicious &lt;t.y.kwon320@gmail.com&gt;"/>
-			<item value="0000000000000000000000000000000000000000"/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
